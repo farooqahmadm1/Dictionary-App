@@ -5,7 +5,7 @@ then if you will search the same word again in search when there is not internet
 
 ### Technologies Used
 - Compose UI
-- Clean Architechure & MVVM
+- Clean Architechure & MVI
 - Room Persistance Library
 - Retrofit + okhttp
 - Navigation Component Compose
